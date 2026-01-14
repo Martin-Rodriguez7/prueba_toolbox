@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Production
+build/
+dist/
+
+# Env
+.env
+
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
